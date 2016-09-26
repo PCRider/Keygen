@@ -1,0 +1,11 @@
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\bin\Debug\AryaTranslatorKeygen.exe
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\bin\Debug\AryaTranslatorKeygen.pdb
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\bin\Debug\AryaTranslatorKeygen.xml
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\AryaTranslatorKeygen.Keygen.resources
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\AryaTranslatorKeygen.Resources.resources
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\AryaTranslatorKeygen.exe
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\AryaTranslatorKeygen.xml
+C:\Documents and Settings\PCRider.com\My Documents\Visual Studio 2010\Projects\AryaTranslatorKeygen\AryaTranslatorKeygen\obj\x86\Debug\AryaTranslatorKeygen.pdb
