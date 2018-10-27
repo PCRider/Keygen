@@ -1,6 +1,4 @@
-﻿Imports System.Resources
-
-Imports System
+﻿Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -10,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Arya Translator Version 2 Key Generator")> 
-<Assembly: AssemblyDescription("This Program Will Be Generate Valid Activation Code for Version 2 of AryaTranslator")> 
-<Assembly: AssemblyCompany("PCRider")> 
-<Assembly: AssemblyProduct("Arya Translator Version 2 Key Generator")> 
-<Assembly: AssemblyCopyright("Copyright © PCRider 2014")> 
-<Assembly: AssemblyTrademark("PCRider")> 
+<Assembly: AssemblyTitle("AryaKeygen")> 
+<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyProduct("AryaKeygen")> 
+<Assembly: AssemblyCopyright("Copyright ©  2017")> 
+<Assembly: AssemblyTrademark("")> 
 
-<Assembly: ComVisible(False)> 
+<Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("da8e608c-fb69-4146-8dd2-8a01e2917645")> 
+<Assembly: Guid("d27f9124-9fdb-4dec-9a92-dd7a9c7ab5e8")> 
 
 ' Version information for an assembly consists of the following four values:
 '
@@ -35,5 +33,3 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyVersion("1.0.0.0")> 
 <Assembly: AssemblyFileVersion("1.0.0.0")> 
-
-<Assembly: NeutralResourcesLanguageAttribute("fa")> 
